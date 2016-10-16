@@ -1,6 +1,6 @@
-package algorithms.strings;
+package algorithms.strings.CommonChild;
 
-public class CommonChild {
+public class Solution {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
